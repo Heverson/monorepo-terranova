@@ -1,0 +1,192 @@
+[14-Jun-2021 17:01:36 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 17:02:11 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 17:02:23 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 17:02:48 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 17:17:16 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 17:17:24 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:17:24 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:17:39 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:17:39 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:18:09 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 17:19:19 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:19:19 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 86
+[14-Jun-2021 17:19:23 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:19:23 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 86
+[14-Jun-2021 17:19:45 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:19:45 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:20:08 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:20:08 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:21:02 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:21:02 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:21:12 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:21:12 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:21:13 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:21:13 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 85
+[14-Jun-2021 17:22:45 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:22:45 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 84
+[14-Jun-2021 17:23:09 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:23:09 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 84
+[14-Jun-2021 17:23:38 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:23:38 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 83
+[14-Jun-2021 17:23:49 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[14-Jun-2021 16:23:49 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 83
+[23-Jul-2021 08:15:49 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:32:22 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:32:22 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 38
+[23-Jul-2021 21:33:09 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:33:09 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 38
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Warning:  include(_setup.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 2
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Warning:  include(_setup.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 2
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Warning:  include(): Failed opening '_setup.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingterranov/public_html/api/index.php on line 2
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 4
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 4
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingterranov/public_html/api/index.php on line 4
+[23-Jul-2021 21:34:05 America/Sao_Paulo] PHP Fatal error:  Call to undefined function testaperiododata() in /home/shoppingterranov/public_html/api/index.php on line 8
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Warning:  include(_setup.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 2
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Warning:  include(_setup.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 2
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Warning:  include(): Failed opening '_setup.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingterranov/public_html/api/index.php on line 2
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 4
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/shoppingterranov/public_html/api/index.php on line 4
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shoppingterranov/public_html/api/index.php on line 4
+[23-Jul-2021 21:34:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function testaperiododata() in /home/shoppingterranov/public_html/api/index.php on line 8
+[23-Jul-2021 21:34:51 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:35:02 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:35:02 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 37
+[23-Jul-2021 21:35:43 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:36:23 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:36:23 America/Asuncion] PHP Fatal error:  Call to a member function Query() on null in /home/shoppingterranov/public_html/api/index.php on line 38
+[23-Jul-2021 21:37:26 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:38:26 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:38:28 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:39:42 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:39:42 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:40:32 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:40:32 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:40:33 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:40:33 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:40:34 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:40:34 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:40:34 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:40:34 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:42:55 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:42:55 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:42:56 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 20:42:56 America/Asuncion] PHP Fatal error:  Cannot redeclare class Sql in /home/shoppingterranov/public_html/class.sql.php on line 9
+[23-Jul-2021 21:45:56 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:46:20 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 22:01:23 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:01:23 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1065: Query was empty Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> ' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(39): Sql->query(NULL)
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:03:53 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:03:53 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1065: Query was empty Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> ' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(39): Sql->query(NULL)
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:03:58 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:03:58 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1065: Query was empty Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> ' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(39): Sql->query(NULL)
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:05:32 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:05:32 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1065: Query was empty Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> ' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(39): Sql->query(NULL)
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:05:34 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:05:34 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1065: Query was empty Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> ' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(39): Sql->query(NULL)
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:07:03 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 22:07:08 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 22:08:24 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 22:08:46 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 22:09:00 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:00 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:02 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:02 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:19 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:19 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:21 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:21 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:21 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:21 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:34 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:34 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:36 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:36 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:37 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:37 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:37 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:37 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:09:37 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:09:37 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
+[23-Jul-2021 22:11:34 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/shoppingterranov/public_html/_config.php on line 28
+[23-Jul-2021 21:11:34 America/Asuncion] PHP Fatal error:  Uncaught exception 'Exception' with message 'Houve um problema na conexão com o servidor mysql. Erro: 0L6541 -> 1146: Table 'shoppingterranov_sisadm.usuarios' doesn't exist Linha : 90 Script: /home/shoppingterranov/public_html/class.sql.php -> SELECT * from usuarios WHERE use_login = 'egondola' OR use_email = 'egondola' AND  use_password = 'c23c67866c9ac24600c51730f7e12824'' in /home/shoppingterranov/public_html/class.sql.php:93
+Stack trace:
+#0 /home/shoppingterranov/public_html/api/index.php(40): Sql->query('SELECT * from u...')
+#1 /home/shoppingterranov/public_html/api/index.php(11): getSession('egondola', 'ego248dolA')
+#2 {main}
+  thrown in /home/shoppingterranov/public_html/class.sql.php on line 93
