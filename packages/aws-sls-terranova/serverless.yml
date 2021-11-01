@@ -9,9 +9,59 @@ provider:
   lambdaHashingVersion: '20201221'
 
 functions:
-  hello:
-    handler: handler.hello
+  getInfo:
+    handler: src/handler.getInfo
     events:
-      - httpApi:
-          path: /
-          method: get
+      - http:
+          path: /info
+          method: GET
+
+  getBanners:
+    handler: src/handler.getBanners
+    events:
+      - http:
+          path: /banners
+          method: GET
+
+  getBrands:
+    handler: src/handler.getBrands
+    events:
+      - http:
+          path: /brands
+          method: GET
+
+  getCategories:
+    handler: src/handler.getCategories
+    events:
+      - http:
+          path: /categories
+          method: GET
+
+  getCategoryProducts:
+    handler: src/handler.getCategoryProducts
+    events:
+      - http:
+          path: /category/{id}/products
+          method: GET
+          request:
+            parameters:
+              paths:
+                id: true
+
+  getProducts:
+    handler: src/handler.getProducts
+    events:
+      - http:
+          path: /products/{type}
+          method: GET
+          request:
+            parameters:
+              paths:
+                type: true
+
+  createSession:
+    handler: src/handler.createSession
+    events:
+      - http:
+          path: /session
+          method: POST
