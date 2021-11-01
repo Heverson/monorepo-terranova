@@ -12,7 +12,10 @@
   "license": "MIT",
   "scripts": {
     "mobile:start": "mobile yarn start",
-    "serverless:start": "serverless yarn start"
+    "serverless:start": "cd aws-sls-terranova/ && yarn start"
+  },
+  "dependencies": {
+    "serverless": "*"
   },
   "devDependencies": {
     "serverless-offline": "^6.8.0"
