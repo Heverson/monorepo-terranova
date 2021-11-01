@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { SafeAreaView, ScrollView } from "react-native";
+import { ActivityIndicator, SafeAreaView, ScrollView } from "react-native";
 import CarouselBrands from "../../components/CarouselBrands";
 import HeaderTitle from "../../components/HeaderTitle";
 import { ListProducts } from "../../components/ListProducts";
@@ -30,6 +30,7 @@ interface BrandsProps {
 
 const Home: React.FC = () => {
   const { signOut } = useAuth();
+  const [loading, setLoading] = useState(true);
   const [banners, setBanners] = useState<BannersProps[]>([]);
   const [brands, setBrands] = useState<BrandsProps[]>([]);
 
@@ -42,14 +43,24 @@ const Home: React.FC = () => {
   async function fetchBrands() {
     const { result } = await api("/brands");
     const { data } = result.data;
-    setBrands(brands.data);
+    setBrands(data);
   }
 
   useEffect(() => {
     fetchBanners();
     fetchBrands();
+    setTimeout(() => {
+      setLoading(false);
+    }, 2000);
   }, []);
 
+  if (loading) {
+    return (
+      <>
+        <ActivityIndicator size={50} />
+      </>
+    );
+  }
   return (
     <>
       <ScrollView>

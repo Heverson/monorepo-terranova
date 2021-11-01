@@ -6,14 +6,18 @@ interface BannersProps {
   imgUrl: string;
 }
 interface Props {
-  banners: BannersProps[];
+  banners?: BannersProps[];
 }
 export function SlideBanner({ banners }: Props) {
   const bannersUrl = () => {
-    return banners.map((item) => {
-      url: item.imgUrl;
-    });
+    return (
+      banners &&
+      banners.map((item) => {
+        url: item.imgUrl;
+      })
+    );
   };
+  console.log(bannersUrl());
   return (
     <Container>
       <Slideshow

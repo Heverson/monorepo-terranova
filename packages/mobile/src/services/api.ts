@@ -17,7 +17,7 @@ import axios from "axios";
 const endpoints = {
   // API: 'http://127.0.0.1:3000/dev/',
   // API: 'https://z0p321kaqa.execute-api.us-east-1.amazonaws.com/',
-  API: "https://f7aosyhl04.execute-api.us-east-1.amazonaws.com/dev/",
+  API: "https://mqkyd31q20.execute-api.us-east-1.amazonaws.com/dev/",
 };
 
 const api = axios.create({
