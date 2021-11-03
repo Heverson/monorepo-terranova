@@ -17,7 +17,6 @@ export function SlideBanner({ banners }: Props) {
       })
     );
   };
-  console.log(bannersUrl());
   return (
     <Container>
       <Slideshow

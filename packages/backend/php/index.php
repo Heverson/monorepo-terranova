@@ -109,8 +109,6 @@ function getProducts($type){
         }
         $status = '200';
 
-        echo $query_sql;
-        exit;
         foreach($data as $key => $value){
             $dataFormatted[$key]['pro_id'] = $value['pro_id'];
             $dataFormatted[$key]['pro_nome'] = utf8_encode($value['pro_nome']);

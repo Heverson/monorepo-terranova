@@ -2,10 +2,9 @@ org: heverson
 app: api-sls-terranova
 service: serverless-app-terranova
 
-frameworkVersion: "2"
 
 plugins:
-  - serverless-offline
+
 
 provider:
   name: aws

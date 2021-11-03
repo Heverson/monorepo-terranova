@@ -89,8 +89,9 @@ const getCategoryProducts = async (event) => {
 };
 
 const getProducts = async (event) => {
+  const { type } = event.pathParameters;
   const result = await fetch(
-    "https://www.shoppingterranova.com.py/api/?action=categories"
+    `https://www.shoppingterranova.com.py/api/?action=products&type=${type}`
   );
   const data = await result.json();
 

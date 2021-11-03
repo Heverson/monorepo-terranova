@@ -1,5 +1,6 @@
 "use strict";
-const fetch = require("node-fetch");
+
+const fetch = required('node-fetch');
 
 const getInfo = async (event) => {
   return {

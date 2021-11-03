@@ -66,10 +66,10 @@ const Home: React.FC = () => {
       <ScrollView>
         <Container>
           <HeaderTitle>Bien venido Heverson</HeaderTitle>
-          <SlideBanner banners={banners} />
+          {banners && ( <SlideBanner banners={banners} />)}
           <CarouselBrands />
           <HeaderTitle>Lanzamientos</HeaderTitle>
-          <ListProducts column={3} products={banners} />
+          <ListProducts column={3} products={brands} />
         </Container>
       </ScrollView>
     </>
