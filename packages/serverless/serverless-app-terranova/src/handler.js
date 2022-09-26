@@ -103,27 +103,48 @@ const getProducts = async (event) => {
       },
       null,
       2
-    ),
+      ),
+    };
   };
-};
+  
+  const createSession = async (event) => {
+    const { username, password } = JSON.parse(event.body);
+    const url = `https://www.shoppingterranova.com.py/api/?action=session&login=${username}&password=${password}`;
+    const result = await fetch(url);
+    const data = await result.json();
+    
+    return {
+      statusCode: 200,
+      body: JSON.stringify(
+        {
+          result: data,
+        },
+        null,
+        2
+        ),
+      };
+    };
+    
+  
+ 
+  const checkoutCart = async (event) => {
+    const token = 'StN0x';
+    const { checkoutParams } = JSON.parse(event.body);
+    const { cart } = checkoutParams;
 
-const createSession = async (event) => {
-  const { username, password } = JSON.parse(event.body);
-  const url = `https://www.shoppingterranova.com.py/api/?action=session&login=${username}&password=${password}`;
-  const result = await fetch(url);
-  const data = await result.json();
-
-  return {
-    statusCode: 200,
-    body: JSON.stringify(
-      {
-        result: data,
-      },
-      null,
-      2
-    ),
+    return {
+      statusCode: 200,
+      body: JSON.stringify(
+        {
+          result: 'teste Ok',
+          json: cart
+        },
+        null,
+        2
+      ),
+    }
   };
-};
+
 
 module.exports = {
   getInfo,
@@ -133,4 +154,5 @@ module.exports = {
   getCategoryProducts,
   getProducts,
   createSession,
+  checkoutCart
 };

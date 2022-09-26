@@ -10,13 +10,15 @@ error_reporting(E_ALL);
 */
 extract($_GET);
 
-
-
 if(!empty($action)){
 
     switch ($action){
         case 'session':
             getSession($login,$password);
+            break;
+
+        case 'catalog':
+            getCatalog($id);
             break;
 
         case 'products':
@@ -41,6 +43,15 @@ if(!empty($action)){
     }
 
 }
+
+
+function getCatalog($id){
+    $sql = new Sql();
+    $sql->query("SELECT * FROM catalog WHERE id = '$id'");
+    $row = $sql->fetch();
+    echo json_encode($row);
+}
+
 
 function getSession($login, $password){
     $obj_sql = new Sql();
@@ -93,8 +104,6 @@ function getProducts($type){
     $qidm = $obj_sql->Query($query_sql);
     $data = [];
     $status = '404';
-    var_dump($obj_sql->Num_Rows($qidm));
-    echo "ver \n";
     if ($obj_sql->Num_Rows($qidm)>0) {
         while($row = $obj_sql->Fetch_Array($qidm)) { 
             // recupera a foto

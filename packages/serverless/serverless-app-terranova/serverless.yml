@@ -68,3 +68,10 @@ functions:
       - http:
           path: /session
           method: POST
+
+  createCheckout:
+    handler: src/handler.createCheckout
+    events:
+      - http:
+          path: /checkout
+          method: POST
